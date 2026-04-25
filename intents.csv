@@ -1,0 +1,5 @@
+Query,Intent,Response
+Where is my order?,Order_Status,Your order is on the way.
+Cancel my order,Cancel_Order,Your order has been cancelled.
+Refund status,Refund_Query,Refund will be processed soon.
+Payment failed,Payment_Issue,Try another payment method.
